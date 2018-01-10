@@ -1,0 +1,19 @@
+{
+  "name": "fuse-box-cssdependencyextrator-issue-proof",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fuse.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "fuse-box": "3.0.2",
+    "less": "^2.7.3",
+    "postcss-clean": "^1.1.0",
+    "typescript": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
